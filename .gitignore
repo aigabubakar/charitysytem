@@ -1,0 +1,10 @@
+# Local credentials and configuration
+wp-config.php
+.htaccess
+
+# OS / Editor temporary files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
